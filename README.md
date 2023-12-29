@@ -3,6 +3,8 @@
 This project uses TensorFlow and the Object Detection API to perform object detection in images.
 
 ## Installation
+Don't forget to install neccessary packages like tensorflow
+if you have any roblem with the code jus contact below
 
 1. Clone the repository:
    ```bash
@@ -22,6 +24,10 @@ The image above shows the detection of objects with confidence scores.
 
 Contributors
 adnanahad
+contact,
+Instagram: adnan4ahad
+LinkedIn: https://www.linkedIn.com/in/adnanahad
+email: adnanahad.in@gmail.com
 
 
 Make sure to replace `path/to/your/example_image.jpg` with the path or URL to an example image from your project. Also, add any additional sections or information that you think would be helpful for users or contributors.
